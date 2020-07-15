@@ -34,13 +34,13 @@ The datasets use in this project has been gathered from two sources. The majorit
 Below are the datasets used in this project:
 
 1. [Life Expectancy at Birth and Age 65 years, Annual](https://data.gov.sg/dataset/life-expectancy-by-sex-annual?view_id=06123d4e-31ed-40f0-a4c8-04c164629d22&resource_id=a75832e1-630f-42fc-a1cf-e5c8a0724227) (January 1, 1960 to December 31, 2018)
-<br>
+
 2. [Singapore Residents By Age Group, Ethnic Group And Gender, End June, Annual](https://data.gov.sg/dataset/resident-population-by-ethnicity-gender-and-age-group?resource_id=d5d35678-cd15-4f43-b347-d671d1870655) (January 1, 1957 to December 31, 2018)
-<br>
+
 3. [Per Capita GNI and Per Capita GDP At Current Prices, Annual](https://data.gov.sg/dataset/per-capita-gni-and-per-capita-gdp-at-current-market-prices-annual) (January 1, 1960 to December 31, 2018)
-<br>
+
 4. [Household Healthcare Expenditure](https://data.gov.sg/dataset/household-healthcare-expenditure) (January 1, 2002 to December 31, 2017)
-<br>
+
 5. [Value Added Per Worker In Chained (2015) Dollars, By Industry (SSIC 2015), Annual](https://data.gov.sg/dataset/value-added-per-worker-in-chained-2015-dollars-by-industry-ssic-2015-annual)  (January 1, 1983 to December 31, 2019)
 
 In response to the questions above, data wrangling and exploratory data analysis was be performed to analyze the datasets. The following modules will be used throughout this study: Pandas, numpy, seaborn, matplotlib and matplotlib.pyplot.
