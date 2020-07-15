@@ -63,7 +63,7 @@ In this study, we will follow the international classification of classifying an
 
 **2.2.1. Changes in Life Expectancy from 1960 to 2018**
 
-<img class="ui fluid image"  src="../images/fig1_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../fig1_IntroAn_p1.PNG">
 
 
 * The trend of life expectancy at birth and at age 65 years have increased from 1960 to 2018.
