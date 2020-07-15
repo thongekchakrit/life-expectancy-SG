@@ -1,16 +1,3 @@
----
-layout: essay
-type: essay
-title: The Effect of an Aging Population on the Economy, An Analysis on Singapore 1983-2018
-# All dates must be YYYY-MM-DD format!
-date: 2020-02-01
-labels:
-  - Introduction to Data Analysis
-  - Data Analysis
-  - Data Visualization
-  - Pandas, NumPy, Seaborn, Matplotlib
-  - Python
----
 # The Effect of Aging Population on Economy: An Analysis of Singapore From 1983 to 2018.
 By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)
 
