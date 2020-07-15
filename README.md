@@ -261,4 +261,4 @@ Cervellati, M. & Sunde, U. 2011. Life expectancy and economic growth: the role o
 
 ## Code
 
-* [Link to this project](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/notebook/Twitter%20Scrapper%20Lexicon%20Analysis.ipynb)
+* [Link to this project](https://github.com/thongekchakrit/life-expectancy-SG/blob/master/notebook/The_Effect_of_Rising_Life_Expectancy.ipynb)
